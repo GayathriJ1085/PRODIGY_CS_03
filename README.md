@@ -1,0 +1,1 @@
+This is a GUI window where it is checked how much strong your password is . If any updates needed it recomends to make the password more secure and safe to use . the window gives information wether the password is srtong or needs some changes . 
